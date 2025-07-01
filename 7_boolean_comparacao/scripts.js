@@ -1,0 +1,11 @@
+console.log(1 > 2);
+console.log(5 < 10);
+console.log(5 >= 5);
+console.log(5 <= 10);
+console.log(5 == 5);
+console.log(5 != 10);
+console.log(5 === 5);
+console.log(5 !== 10);
+console.log("Alex" != "Cláudio");
+console.log("Alex" === "Cláudio");
+console.log("Alex" || "Cláudio");
